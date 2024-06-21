@@ -1,0 +1,13 @@
+# Cython
+*.c
+*.so
+*.pyd
+*.pyx,*.c
+*.pyx,*.so
+*.pyx,*.pyd
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
